@@ -1,0 +1,8 @@
+D:\mphasis\Day 10\asigment12\asigment12\bin\Debug\asigment12.exe.config
+D:\mphasis\Day 10\asigment12\asigment12\bin\Debug\asigment12.exe
+D:\mphasis\Day 10\asigment12\asigment12\bin\Debug\asigment12.pdb
+D:\mphasis\Day 10\asigment12\asigment12\obj\Debug\asigment12.csproj.AssemblyReference.cache
+D:\mphasis\Day 10\asigment12\asigment12\obj\Debug\asigment12.csproj.SuggestedBindingRedirects.cache
+D:\mphasis\Day 10\asigment12\asigment12\obj\Debug\asigment12.csproj.CoreCompileInputs.cache
+D:\mphasis\Day 10\asigment12\asigment12\obj\Debug\asigment12.exe
+D:\mphasis\Day 10\asigment12\asigment12\obj\Debug\asigment12.pdb
